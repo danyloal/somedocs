@@ -121,7 +121,7 @@ A partir de agora, estão listados os casos de uso normais, bem como alternativa
 
 ------
 
-#### Carregar Arquivo diário
+#### Como carregar arquivo diário?
 
 No fluxo normal para o posicionamento do arquivo diário, o Distribuidor:
 
@@ -132,7 +132,7 @@ _**Importante lembrar que "Os arquivos diários devem conter todas as movimenta�
 
 ------
 
-#### Carregar Arquivo consolidado
+#### Como carregar arquivo consolidado?
 
 No fluxo normal para o posicionamento do arquivo diário, o Distribuidor:
 
