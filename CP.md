@@ -121,7 +121,7 @@ A partir de agora, estão listados os casos de uso normais, bem como alternativa
 
 ------
 
-#### Carregar Arquivo diário
+#### Como carregar Arquivo diário?
 
 No fluxo normal para o posicionamento do arquivo diário, o Distribuidor:
 
@@ -132,7 +132,7 @@ _**Importante lembrar que "Os arquivos diários devem conter todas as movimenta�
 
 ------
 
-#### Carregar Arquivo consolidado
+#### Como carregar Arquivo consolidado?
 
 No fluxo normal para o posicionamento do arquivo diário, o Distribuidor:
 
@@ -140,3 +140,15 @@ No fluxo normal para o posicionamento do arquivo diário, o Distribuidor:
 2. Copia o arquivo para a estrutura de pastas, dentro da pasta Consolidado do mês correspondente (ex.: 2013\02.Fevereiro\Consolidado\ZZZ.txt).
 
 _**Importante lembrar que "Os arquivos consolidados devem conter todas as movimentações Mês de Referência".**_
+
+------
+
+#### Como corrigir envio de arquivo errado?
+
+------
+
+#### Como corrigir dados em arquivo enviado?
+
+------
+
+#### ?
